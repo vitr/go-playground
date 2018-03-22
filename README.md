@@ -8,3 +8,6 @@ insertion sort https://goplay.space/#0vlqEEEr210 optimized https://goplay.space/
 
 merge sort https://goplay.space/#2af2tPoV1aH
 
+quicksort https://goplay.space/#-qivkluCZ59
+
+
