@@ -6,5 +6,5 @@ bubble sort https://goplay.space/#w8U0Bl8W6ZP
 
 insertion sort https://goplay.space/#0vlqEEEr210 optimized https://goplay.space/#MnaSc3QTf8U
 
-
+merge sort https://goplay.space/#2af2tPoV1aH
 
