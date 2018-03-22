@@ -2,7 +2,7 @@
 
 recursion https://goplay.space/#wtT4I0otR9I
 
-bubble sort https://goplay.space/#z2qFvwEeUFE
+bubble sort https://goplay.space/#w8U0Bl8W6ZP
 
 insertion sort https://goplay.space/#0vlqEEEr210 optimized https://goplay.space/#ghPHKL6msDh
 
