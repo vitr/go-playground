@@ -12,4 +12,5 @@ quicksort https://goplay.space/#-qivkluCZ59
 
 array list https://goplay.space/#ohXhKIACLui
 
+linked list https://goplay.space/#QCTXxfQnMml
 
