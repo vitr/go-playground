@@ -10,4 +10,6 @@ merge sort https://goplay.space/#2af2tPoV1aH
 
 quicksort https://goplay.space/#-qivkluCZ59
 
+array list https://goplay.space/#9hhqKpMZbqu
+
 
