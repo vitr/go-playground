@@ -14,3 +14,6 @@ array list https://goplay.space/#ohXhKIACLui
 
 linked list https://goplay.space/#QCTXxfQnMml
 
+binary search tree https://goplay.space/#i2IO54boiKb
+
+
