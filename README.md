@@ -14,6 +14,10 @@ array list https://goplay.space/#ohXhKIACLui
 
 linked list https://goplay.space/#QCTXxfQnMml
 
-binary search tree https://goplay.space/#i2IO54boiKb
+binary search tree https://goplay.space/#3IYZIewl6kB
+
+Functional Programming 101
+Go: Idiomatic Replacement for map/reduce/filter/etc ->  https://github.com/robpike/filter Simple apply/filter/reduce package
+
 
 
