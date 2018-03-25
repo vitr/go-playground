@@ -23,5 +23,4 @@ hash table (actually a collection, not a map) https://goplay.space/#dMv-0XheZtD
 Functional Programming 101
 Go: Idiomatic Replacement for map/reduce/filter/etc ->  https://github.com/robpike/filter Simple apply/filter/reduce package
 
-
-
+map (apply) https://goplay.space/#lOLlrt1QWaV
