@@ -18,7 +18,7 @@ binary search tree https://goplay.space/#3IYZIewl6kB
 
 avl tree https://goplay.space/#grUtumvU0T6
 
-hash table https://goplay.space/#QvzbX-o2J_j
+hash table https://goplay.space/#dMv-0XheZtD
 
 Functional Programming 101
 Go: Idiomatic Replacement for map/reduce/filter/etc ->  https://github.com/robpike/filter Simple apply/filter/reduce package
