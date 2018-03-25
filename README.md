@@ -24,3 +24,7 @@ Functional Programming 101
 Go: Idiomatic Replacement for map/reduce/filter/etc ->  https://github.com/robpike/filter Simple apply/filter/reduce package
 
 map (apply) https://goplay.space/#lOLlrt1QWaV
+
+reduce https://goplay.space/#AyDs-KMlmqs
+
+
