@@ -42,7 +42,7 @@ Breadth-first Traversal (recursive, iterative) https://goplay.space/#XA3WBufD1Nn
 
 Pathfinding https://goplay.space/#Fq6jI5O7yQp
 
-
+Graphs https://raw.githubusercontent.com/vitr/go-playground/master/graph.go (too large for saving in play.golang.org, but could be run there after copy'n'paste
 
 
 
