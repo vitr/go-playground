@@ -28,3 +28,7 @@ map (apply) https://goplay.space/#lOLlrt1QWaV
 reduce https://goplay.space/#AyDs-KMlmqs
 
 filter https://goplay.space/#09eGbN7Owy4
+
+
+==== p2 ====
+bloom filter https://goplay.space/#__Sf7qZpsU_R
