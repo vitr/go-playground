@@ -51,5 +51,5 @@ Generating a Maze https://goplay.space/#l7XabqdxyUK  http://weblog.jamisbuck.org
  
  
  
- https://goplay.space/#46IA9fzwFV9
+ Tries (autocomplete) https://goplay.space/#8M8xoFbprEa
  
