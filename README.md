@@ -1,5 +1,7 @@
 # go-playground
 
+following go programms are translated from javascript originals for educational purposes
+
 recursion https://goplay.space/#wtT4I0otR9I
 
 bubble sort https://goplay.space/#w8U0Bl8W6ZP
