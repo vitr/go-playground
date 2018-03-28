@@ -53,6 +53,8 @@ Tries (autocomplete) https://goplay.space/#F3WVEYRYL-o
 
 Searching for an Element in an Array https://goplay.space/#lavjV0rhZo4
 
+heapsort https://goplay.space/#KrZDGKTqWo0
+
 
 
  
