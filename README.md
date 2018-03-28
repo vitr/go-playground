@@ -1,6 +1,6 @@
 # go-playground
 
-following go programms are translated from javascript originals for educational purposes
+following go programms are translated from javascript originals for educational purposes, Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) http://bigocheatsheet.com/
 
 recursion https://goplay.space/#wtT4I0otR9I
 
