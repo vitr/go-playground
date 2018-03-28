@@ -49,7 +49,10 @@ Graphs https://raw.githubusercontent.com/vitr/go-playground/master/graph.go (too
 Generating a Maze https://goplay.space/#l7XabqdxyUK  http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
  (alternatives https://play.golang.org/p/oz6wmWueJcg https://play.golang.org/p/LU0QVwjJY6)
  
- 
- 
- Tries (autocomplete) https://goplay.space/#8M8xoFbprEa
+Tries (autocomplete) https://goplay.space/#F3WVEYRYL-o
+
+Searching for an Element in an Array
+
+
+
  
