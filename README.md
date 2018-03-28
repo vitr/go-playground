@@ -51,7 +51,7 @@ Generating a Maze https://goplay.space/#l7XabqdxyUK  http://weblog.jamisbuck.org
  
 Tries (autocomplete) https://goplay.space/#F3WVEYRYL-o
 
-Searching for an Element in an Array
+Searching for an Element in an Array https://goplay.space/#lavjV0rhZo4
 
 
 
